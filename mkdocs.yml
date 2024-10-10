@@ -36,3 +36,4 @@ theme:
   font:
     text: "Verdana"
     code: "Roboto Mono"
+docs_dir: "docs"
